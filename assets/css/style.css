@@ -1569,3 +1569,14 @@ section {
   text-decoration: none;
 }
 
+.citas {
+  display: inline-block; /* Para que el cuadro envuelva el texto */
+  padding: 10px 20px; /* Ajusta el espaciado interior del cuadro según tus preferencias */
+  background-color: rgb(0, 153, 255); /* Establece el color de fondo a azul */
+  color: white; /* Establece el color del texto a blanco */
+  text-decoration: none; /* Elimina la subrayado predeterminado de los enlaces */
+  border-radius: 5px; /* Añade esquinas redondeadas al cuadro */
+  font-weight: bold; /* Pone el texto en negrita */
+}
+
+
